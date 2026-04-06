@@ -1,0 +1,2 @@
+console.error(error);
+res.status(500).send("server Error");
